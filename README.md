@@ -6,7 +6,7 @@ A Plugin for Apache Cordova by [ohh2ahh](http://ohh2ahh.com).
 
 1. [Description](https://github.com/ohh2ahh/NetworkActivityIndicator#1-description)
 2. [Installation](https://github.com/ohh2ahh/NetworkActivityIndicator#2-installation)
-2. [Automatically (Command-line Interface)](https://github.com/ohh2ahh/NetworkActivityIndicator#automatically-command-line-interface)
+  2. [Automatically (Command-line Interface)](https://github.com/ohh2ahh/NetworkActivityIndicator#automatically-command-line-interface)
 3. [Usage](https://github.com/ohh2ahh/NetworkActivityIndicator#3-usage)
 4. [License](https://github.com/ohh2ahh/NetworkActivityIndicator#4-license)
 
