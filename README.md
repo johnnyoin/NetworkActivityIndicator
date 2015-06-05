@@ -1,6 +1,6 @@
 # NetworkActivityIndicator for iOS
 
-`Version 0.1.0`
+`Version 0.1.1`
 
 A Plugin for Apache Cordova by [ohh2ahh](http://ohh2ahh.com).
 
