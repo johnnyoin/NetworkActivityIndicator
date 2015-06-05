@@ -24,7 +24,7 @@ This plugin allows you to show and hide the statusbar's network activity indicat
 
 The Cordova CLI is the recommended way to install NetworkActivityIndicator, see [The Command-line Interface](http://cordova.apache.org/docs/en/edge/guide_cli_index.md.html#The%20Command-Line%20Interface). You can find the plugin on these registries:
 * [GitHub](https://github.com/ohh2ahh/NetworkActivityIndicator)
-* [npm](https://www.npmjs.com/package/cordova-plugin-networkactivityindicator) (coming soon)
+* [npm](https://www.npmjs.com) (coming soon)
 
 ### Automatically (Command-line Interface)
 
@@ -42,7 +42,7 @@ You don't have to reference the JavaScript in your `index.html`.
 
 ## 3. Usage
 
-``javascript
+```javascript
 // Show network activity indicator
 NetworkActivityIndicator.show();
 
@@ -52,7 +52,7 @@ NetworkActivityIndicator.hide();
 
 If you need/want callbacks:
 
-``javascript
+```javascript
 // Show network activity indicator
 NetworkActivityIndicator.show(function(){
   // Success
@@ -71,7 +71,7 @@ NetworkActivityIndicator.hide(function(){
 
 ### Full example
 
-``javascript
+```javascript
 // Show network activity indicator
 NetworkActivityIndicator.show(function(){
   // Success
