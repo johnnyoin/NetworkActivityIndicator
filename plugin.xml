@@ -21,7 +21,7 @@
   </engines>
 
   <js-module src="www/NetworkActivityIndicator.js" name="NetworkActivityIndicator">
-    <clobbers target="NetworkActivityIndicator" />
+    <clobbers target="navigator.NetworkActivityIndicator" />
   </js-module>
 
   <!-- iOS -->
